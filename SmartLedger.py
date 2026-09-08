@@ -1,4 +1,3 @@
-09.08 3:52 PM
 Smartledger
 import streamlit as st
 import google.generativeai as genai
